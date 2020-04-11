@@ -8,31 +8,31 @@ title: Impressum
 </span></font></h2>
 
 <h2 style="text-align: center;">
-    new Scienction MAGazin
+    B6sicS SCHooL
 </h2>
 
 <p style="text-align: center;">	
-    tudományosan szórakoztató internetes kiadvány<br>
-        2016.01.01.<br>    
+    tudományosan szórakoztató internetes iskola<br>
+        2020.04.01.<br>    
 	&nbsp;<br>
 	<img src="assets/images/compass.png" width="333px" height="111px">
 	&nbsp;<br>
 	&nbsp;<br>
-Vezérigazgatók: Lévai-Kiss Noémi és Ákos E. Kiss <br>
-        Főszerkesztő: Kiss József Gábor<br>         
-        Főszerkesztő-helyettesek: Yin Gu &amp; Yan Gu<br>         
+Igazgatók: Lévai-Kiss Noémi és Ákos E. Kiss <br>
+        Oktatási igazgató: Kiss József Gábor<br>         
+        Oktatási eligazgatók: Yin Gu &amp; Yan Gu<br>         
 	&nbsp;<br>
-		olvasó szerkesztő: Csőke Ágnes<br>         
+		Szerkesztő: Csőke Ágnes<br>         
 		kép szerkesztő: Lévai-Kiss Noémi<br>         
 		tervező szerkesztő: Lévai István<br>         
 	&nbsp;<br>
-    Rovat vezetők:<br>
-		Hírek: Kiss József Gábor<br>         
+    Tanfolyam vezetők:<br>
+		Alapok: Kiss József Gábor<br>         
 		Gazdaság: Ákos E. Kiss<br>         
 		Életmód: Lévai-Kiss Noémi<br>         
 		Irodalom: Csőké Ágnes<br>         
 		Szórakozás: Lévai István<br>         
-		Gyermek kuckó: Csőke Ágnes<br>         
+		Óvodai előkészítő: Csőke Ágnes<br>         
 	&nbsp;<br>
     Technikai munkatársak <br>
 		korrektor:  Csőke Ágnes, Lévai-Kiss Noémi (design)<br>         
@@ -46,12 +46,15 @@ Vezérigazgatók: Lévai-Kiss Noémi és Ákos E. Kiss <br>
 		Bercsényi utca 6. <br>         
 		1111 Budapest<br>         
 	&nbsp;<br>
-	E-mail: sry@sryer.com, yingu@yingu.hu, b6@b6.hu <br>
+	E-mail: b6@b6sics.hu <br>
 	&nbsp;<br>
     Nyomdai előkészítés: Yin Gu<br>
         Nyomdatechnika: Yin &amp; Yan Global Digital Print ( vezérigazgató: Yan Gu )<br>         
 	&nbsp;<br>
-    Index, ISSN-szám: N/A<br>
+    Index, ISSN-szám: 
+        <a href="http://www.oszk.hu/issn-igenyles-online-idoszaki-kiadvanyok" target="_blank">
+            N/A<br>
+        </a>
 	&nbsp;<br>
 </p>
 <p style="text-align: center;">---</p>
@@ -60,13 +63,13 @@ Vezérigazgatók: Lévai-Kiss Noémi és Ákos E. Kiss <br>
 <p>
 	&nbsp;<br>
     <b>Terjesztési információk: </b><br>
-		A tartalom a https://b6school/sciention internetes címen kizárólag digitális formában 
-		jelenik meg. A magazin egyes fejezetei jellegüktől és aktualitásuktól függően változó 
+		A tartalom a https://b6school.hu internetes címen kizárólag digitális formában 
+		jelenik meg. Az egyes tartalmak jellegüktől és aktualitásuktól függően változó 
 		időközökben frissülnek.<br>
 	&nbsp;<br>
 	<b>Előfizetési információk: </b><br> 
-		A kiadvány ingyenes és bármikor hozzáférhető a 
-        https://b6school/sciention internetes címen.<br>
+		A szolgáltatás kiegészítő csomagjai megrendelhetők a 
+        https://b6school.hu internetes címen.<br>
     <b>Jogi nyilatkozat: </b><br> 
 	a./ Szolgáltató törekedik a szolgáltatás folyamatosságának hibamentes fenntartására, 
 	de nem garantálja, hogy a honlap funkcionalitása, 
