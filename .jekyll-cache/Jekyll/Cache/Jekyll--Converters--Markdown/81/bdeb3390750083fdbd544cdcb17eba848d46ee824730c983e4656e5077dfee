@@ -1,0 +1,75 @@
+I"Õ<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+	Transform your plain text into static websites and blogs: 
+        &lt;a href="https://jekyllrb.com/docs/" target="_blank"&gt;
+            Jekyll
+        &lt;/a&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+	Safe, customer-facing template language for flexible web apps: 
+        &lt;a href="https://shopify.github.io/liquid/" target="_blank"&gt;
+            Liquid
+        &lt;/a&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+	 A one-size-fits-all Jekyll theme for writers: 
+        &lt;a href="https://jekyll.github.io/minima/" target="_blank"&gt;
+            Minima
+        &lt;/a&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+	The easy-to-use markup language you can use to format virtually any document: 
+        &lt;a href="https://www.markdownguide.org/" target="_blank"&gt;
+            Markdown
+        &lt;/a&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+	The comprehensive Markdown reference guide, in book format from: 
+        &lt;a href="https://github.com/mattcone/markdown-guide-book/" target="_blank"&gt;
+            Matt Cone
+        &lt;/a&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+	The markdown elements are outlined in this design document: 
+        &lt;a href="https://www.markdownguide.org/basic-syntax" target="_blank"&gt;
+            Basic syntax
+        &lt;/a&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+	Web developer how to: 
+        &lt;a href="https://www.w3schools.com/" target="_blank"&gt;
+            W3school
+        &lt;/a&gt;.
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;New entries&lt;/h2&gt;
+&lt;p&gt;
+    Look for our latest articles on our 
+        &lt;a href="/b6school/blog.html"&gt;
+            blog
+        &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;a href="/b6school/categories.html"&gt;
+    &lt;h2&gt;Search by Categories&lt;/h2&gt;
+&lt;/a&gt;
+
+&lt;a href="/b6school/tags.html"&gt;
+    &lt;h2&gt;Search by Tags&lt;/h2&gt;
+&lt;/a&gt;
+
+&lt;h2&gt;Privacy policy&lt;/h2&gt;
+&lt;p&gt;
+    Our statement of ownership and authorship:
+        &lt;a href="/b6school/impressum.html"&gt;
+            Impressum
+        &lt;/a&gt;, 
+        &lt;a href="https://kissjgabi.github.io/gdpr/"&gt;
+            GDPR
+        &lt;/a&gt;
+&lt;/p&gt;
+</code></pre></div></div>
+
+:ET
