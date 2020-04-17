@@ -1,6 +1,6 @@
 ---
 layout: mydefault
-title: Bacdoor
+title: Backdoor
 ---
 
 <h2>How to use the github, how to build a website</h2>
@@ -50,9 +50,12 @@ title: Bacdoor
         </a>.
     </li>
     <li>
-	The markdown elements are outlined in this design document: 
+	The markdown elements are outlined in this design documents: 
         <a href="https://www.markdownguide.org/basic-syntax" target="_blank">
             Basic syntax
+        </a>,
+        <a href="https://www.markdownguide.org/extended-syntax" target="_blank">
+            Extended syntax
         </a>.
     </li>
     <li>
